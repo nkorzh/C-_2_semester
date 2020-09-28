@@ -1,0 +1,5 @@
+/cygdrive/d/DOC/C++/C++sec/sort-n-f-nkorzh/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/d/DOC/C++/C++sec/sort-n-f-nkorzh/cmake-build-debug/CMakeFiles/sort.dir
+/cygdrive/d/DOC/C++/C++sec/sort-n-f-nkorzh/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/d/DOC/C++/C++sec/sort-n-f-nkorzh/cmake-build-debug/test/CMakeFiles/rebuild_cache.dir
+/cygdrive/d/DOC/C++/C++sec/sort-n-f-nkorzh/cmake-build-debug/test/CMakeFiles/edit_cache.dir

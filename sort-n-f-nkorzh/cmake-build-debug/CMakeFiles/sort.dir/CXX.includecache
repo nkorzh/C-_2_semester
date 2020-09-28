@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/d/DOC/C++/C++sec/sort-n-f-nkorzh/src/main.cpp
+iostream
+-
+functional
+-
+fstream
+-
+cstring
+-
+clocale
+-
+

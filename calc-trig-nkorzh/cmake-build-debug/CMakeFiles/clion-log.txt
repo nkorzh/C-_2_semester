@@ -1,0 +1,80 @@
+"C:\Program Files\JetBrains\CLion 2019.3.4\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" "D:\DOC\Documents\Progs\C++\C++ 2 sem\calc-trig-nkorzh"
+-- Found PythonInterp: C:/Users/Nik/AppData/Local/Programs/Python/Python38/python.exe  
+-- Configuring done
+CMake Error at googletest/googletest/cmake/internal_utils.cmake:150 (add_library):
+  Cannot find source file:
+
+    src/gmock_main.cc
+
+  Tried extensions .c .C .c++ .cc .cpp .cxx .cu .m .M .mm .h .hh .h++ .hm
+  .hpp .hxx .in .txx
+Call Stack (most recent call first):
+  googletest/googletest/cmake/internal_utils.cmake:202 (cxx_library_with_type)
+  googletest/googlemock/CMakeLists.txt:103 (cxx_library)
+
+
+CMake Error at googletest/googletest/cmake/internal_utils.cmake:150 (add_library):
+  Cannot find source file:
+
+    src/gmock-all.cc
+
+  Tried extensions .c .C .c++ .cc .cpp .cxx .cu .m .M .mm .h .hh .h++ .hm
+  .hpp .hxx .in .txx
+Call Stack (most recent call first):
+  googletest/googletest/cmake/internal_utils.cmake:202 (cxx_library_with_type)
+  googletest/googlemock/CMakeLists.txt:101 (cxx_library)
+
+
+CMake Error at googletest/googletest/cmake/internal_utils.cmake:150 (add_library):
+  Cannot find source file:
+
+    src/gtest-all.cc
+
+  Tried extensions .c .C .c++ .cc .cpp .cxx .cu .m .M .mm .h .hh .h++ .hm
+  .hpp .hxx .in .txx
+Call Stack (most recent call first):
+  googletest/googletest/cmake/internal_utils.cmake:202 (cxx_library_with_type)
+  googletest/googletest/CMakeLists.txt:128 (cxx_library)
+
+
+CMake Error at googletest/googletest/cmake/internal_utils.cmake:150 (add_library):
+  Cannot find source file:
+
+    src/gtest_main.cc
+
+  Tried extensions .c .C .c++ .cc .cpp .cxx .cu .m .M .mm .h .hh .h++ .hm
+  .hpp .hxx .in .txx
+Call Stack (most recent call first):
+  googletest/googletest/cmake/internal_utils.cmake:202 (cxx_library_with_type)
+  googletest/googletest/CMakeLists.txt:129 (cxx_library)
+
+
+CMake Error at googletest/googletest/cmake/internal_utils.cmake:150 (add_library):
+  No SOURCES given to target: gmock_main
+Call Stack (most recent call first):
+  googletest/googletest/cmake/internal_utils.cmake:202 (cxx_library_with_type)
+  googletest/googlemock/CMakeLists.txt:103 (cxx_library)
+
+
+CMake Error at googletest/googletest/cmake/internal_utils.cmake:150 (add_library):
+  No SOURCES given to target: gmock
+Call Stack (most recent call first):
+  googletest/googletest/cmake/internal_utils.cmake:202 (cxx_library_with_type)
+  googletest/googlemock/CMakeLists.txt:101 (cxx_library)
+
+
+CMake Error at googletest/googletest/cmake/internal_utils.cmake:150 (add_library):
+  No SOURCES given to target: gtest
+Call Stack (most recent call first):
+  googletest/googletest/cmake/internal_utils.cmake:202 (cxx_library_with_type)
+  googletest/googletest/CMakeLists.txt:128 (cxx_library)
+
+
+CMake Error at googletest/googletest/cmake/internal_utils.cmake:150 (add_library):
+  No SOURCES given to target: gtest_main
+Call Stack (most recent call first):
+  googletest/googletest/cmake/internal_utils.cmake:202 (cxx_library_with_type)
+  googletest/googletest/CMakeLists.txt:129 (cxx_library)
+
+
+CMake Generate step failed.  Build files cannot be regenerated correctly.
