@@ -1,2 +1,1 @@
-# C-_2_semester
-University tasks
+## C++ university tasks
