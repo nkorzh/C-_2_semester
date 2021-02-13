@@ -1,11 +1,13 @@
-# Быстрое определение типа комбинации финансовых инструментов
-Большое университетское задание. Пригодились алгоритмы и структуры данных, ООП.
-## Инструменты
+# Define the financial tool combination type
+Big university task for designing the back logics for trading server.
+
+## Tools and libraries
 * Pugixml
 
-# Задание: Класcификация комбинаций
+# Task: Combinations classification
 
-## Теоретическое введение
+#### Theoretical introduction
+Unfortunately, the original task description is written in Russian.
 
  На современных электронных финансовых рынках торгуется множество видов финансовых инструментов - акции (share), облигации (bond), фьючерсные (future contract) и форфардные (forward contract) контракты, различные типы опционов и т.д. Отдельным видом финансовых инструментов являются комбинации.
 
